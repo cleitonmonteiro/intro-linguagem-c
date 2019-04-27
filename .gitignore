@@ -1,4 +1,7 @@
-.vscode
+.vscode/
+*
+!*.c
+!Makefile
 
 # Prerequisites
 *.d
